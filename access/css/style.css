@@ -569,6 +569,7 @@
     width: 100%;
     column-gap: 30px;
     columns: 3;
+    break-inside: avoid;
 }
 @media(max-width: 991.98px){
     .rowy{
